@@ -1,7 +1,7 @@
 cpp_output
 ==========
 
-Creating cout sentences of raw text
+Creating cout sentences of raw text. Unfortunately, this is only for Mac.
 
 ## How to use
 1. Copy the text you want to transform.
